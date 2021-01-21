@@ -4,4 +4,4 @@
 
  *After each updating page the citations and advice will be change 
 
-#https://herokupythonproject.herokuapp.com/
+#https://herokupythonproject.herokuapp.com/give-advice/advice
